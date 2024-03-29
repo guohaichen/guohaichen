@@ -7,7 +7,6 @@
 </div>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guohaichen&layout=compact&theme=radical)
 
 [![guohai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guohaichen&theme=dracula)](https://github.com/guohaichen/github-readme-activity-graph)
 
