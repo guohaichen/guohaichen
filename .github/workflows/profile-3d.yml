@@ -8,9 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env: 
-      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-      
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3.1.0
@@ -25,4 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-    
